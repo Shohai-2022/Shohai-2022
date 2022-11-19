@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shohai-2022
+- 👀 I’m interested in Python.
+- 🌱 I’m currently learning Scratch.
+- 💞️ Coll aboration is not accepted even on Scratch.
+- 📫 Questions for me are accepted in the comments section of Scratch.
